@@ -54,6 +54,9 @@ a[href^="mailto:"]
 
      margin-top: 25px;font-weight:bold; color: #3d3d66;font-size:5px; text-align: center;display:inline-block;
    }
+   .img-row {
+     margin-left: 0%;}
+  }
 
 }
 @media only screen and (min-width: 800px){
@@ -92,6 +95,8 @@ a[href^="mailto:"]
      margin-top: 25px;font-weight:bold; color: #3d3d66;font-size:medium; text-align: center;display:inline-block;
 
  }
+ .img-row {
+   margin-left: 30%;}
 }
 
 #byAM	{
