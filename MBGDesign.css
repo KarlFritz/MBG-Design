@@ -20,19 +20,19 @@ a[href^="mailto:"]
 
 	 text-align: left;
    vertical-align: middle;
-	 background-color: #3D3D66; width:30%; height:40%;padding: 40px; margin-bottom: -5%;float:left;
+	 background-color: #3D3D66; width:40%; height:40%;padding: 40px; margin-bottom: -5%;float:left;
    display:inline-block;
  }
 
  .sideboard-signature {
    color: white;
-    padding-right: 10px;
+
    font-size:small;
  }
  .sideboardlink{
 	 white-space: nowrap;
 	 color: white;
-	 padding-right: 10px;
+
    font-size:medium;
  }
  #AM{
@@ -40,11 +40,11 @@ a[href^="mailto:"]
  }
  .Text{
 
-	 font-weight:bold; color: #3d3d66;font-size:10px; text-align: center;display:inline-block;
+	 font-weight:bold; color: #3d3d66;font-size:5px; text-align: center;display:inline-block;
 
  }
  .Titletext {
-   font-size: 20px;display:inline-block;vertical-align: middle; font-weight:bold; color: #3d3d66;
+   font-size: 10px;display:inline-block;vertical-align: middle; font-weight:bold; color: #3d3d66;
  }
  .main-frame{
 	 border: 1px solid gray; width:100%; background-color: white;white-space:nowrap;
@@ -52,7 +52,7 @@ a[href^="mailto:"]
 
   .signature{
 
-     margin-top: 25px;font-weight:bold; color: #3d3d66;font-size:10px; text-align: center;display:inline-block;
+     margin-top: 25px;font-weight:bold; color: #3d3d66;font-size:5px; text-align: center;display:inline-block;
    }
 
 }
