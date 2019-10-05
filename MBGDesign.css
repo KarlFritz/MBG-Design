@@ -1,0 +1,78 @@
+@font-face {
+    font-family: "Humanist";
+    src: url(humanist-521-bt.ttf);
+}
+.link {
+	color: #3d3d66;
+	margin: 0px 10px;
+	font-size: large;
+
+}
+a[href^="mailto:"]
+{
+  color: #3d3d66;
+}
+.selected {
+	font-weight:bold;
+}
+@media only screen and (max-width: 800px){
+ .sideboard {
+
+	 text-align: left;
+   vertical-align: middle;
+	 background-color: #3D3D66; width:30%; height:40%;padding: 40px; margin-bottom: -5%;float:left;
+   display:inline-block;
+ }
+ .sideboardlink{
+	 white-space: nowrap;
+	 color: white;
+	 margin:auto;
+
+	 font-size:medium;
+ }
+ #AM{
+	 display: none;
+ }
+ .Text{
+
+	 font-weight:bold; color: #3d3d66;font-size:xx-small; text-align: center;display:inline-block; vertical-align: middle;
+
+ }
+ .Titletext {
+   font-size: small;display:inline-block;vertical-align: middle; font-weight:bold; color: #3d3d66;
+ }
+ .main-frame{
+	 border: 1px solid gray; width:100%; background-color: white;white-space:nowrap;
+ }
+}
+@media only screen and (min-width: 800px){
+ .sideboard {
+
+	 text-align: left;
+    vertical-align: middle;
+	 background-color: #3D3D66; width:20%; height:20%;padding: 40px; margin-bottom: -5%;float:left;
+   display:inline-block;
+ }
+ .sideboardlink{
+	 color: white;
+
+	 font-size:x-large;
+ }
+ .Text{
+
+	 font-weight:bold; color: #3d3d66;font-size:medium; text-align: center;display:inline-block;vertical-align: middle;
+
+ }
+ .Titletext {
+	 font-size:large;display:inline-block;vertical-align: middle; font-weight:bold; color: #3d3d66;
+ }
+ .main-frame{
+	 border: 1px solid gray; background-color: white;white-space:nowrap;
+
+}
+}
+
+#byAM	{
+	font-size: small;
+	text-align: left;
+}
