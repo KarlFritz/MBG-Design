@@ -26,26 +26,25 @@ a[href^="mailto:"]
 
  .sideboard-signature {
    color: white;
-
+   margin:0px 30px;
    font-size:small;
  }
  .sideboardlink{
 	 white-space: nowrap;
 	 color: white;
-	 margin:auto;
-
-	 font-size:medium;
+	 margin:0px 30px;
+   font-size:medium;
  }
  #AM{
 	 display: none;
  }
  .Text{
 
-	 font-weight:bold; color: #3d3d66;font-size:xx-small; text-align: center;display:inline-block;white-space: pre-wrap;
+	 font-weight:bold; color: #3d3d66;font-size:2px; text-align: center;display:inline-block;
 
  }
  .Titletext {
-   font-size: x-small;display:inline-block;vertical-align: middle; font-weight:bold; color: #3d3d66;
+   font-size: 4px;display:inline-block;vertical-align: middle; font-weight:bold; color: #3d3d66;
  }
  .main-frame{
 	 border: 1px solid gray; width:100%; background-color: white;white-space:nowrap;
