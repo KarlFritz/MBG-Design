@@ -23,6 +23,12 @@ a[href^="mailto:"]
 	 background-color: #3D3D66; width:30%; height:40%;padding: 40px; margin-bottom: -5%;float:left;
    display:inline-block;
  }
+
+ .sideboard-signature {
+   color: white;
+
+   font-size:small;
+ }
  .sideboardlink{
 	 white-space: nowrap;
 	 color: white;
@@ -53,11 +59,18 @@ a[href^="mailto:"]
 	 background-color: #3D3D66; width:20%; height:20%;padding: 40px; margin-bottom: -5%;float:left;
    display:inline-block;
  }
- .sideboardlink{
-	 color: white;
+.sideboard-signature {
+  color: white;
 
-	 font-size:x-large;
- }
+  font-size:large;
+}
+
+
+   .sideboardlink{
+    color: white;
+
+    font-size:x-large;
+   }
  .Text{
 
 	 font-weight:bold; color: #3d3d66;font-size:medium; text-align: center;display:inline-block;
