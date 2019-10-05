@@ -35,7 +35,7 @@ a[href^="mailto:"]
  }
  .Text{
 
-	 font-weight:bold; color: #3d3d66;font-size:xx-small; text-align: center;display:inline-block; vertical-align: middle;
+	 font-weight:bold; color: #3d3d66;font-size:xx-small; text-align: center;display:inline-block;
 
  }
  .Titletext {
@@ -60,7 +60,7 @@ a[href^="mailto:"]
  }
  .Text{
 
-	 font-weight:bold; color: #3d3d66;font-size:medium; text-align: center;display:inline-block;vertical-align: middle;
+	 font-weight:bold; color: #3d3d66;font-size:medium; text-align: center;display:inline-block;
 
  }
  .Titletext {
@@ -78,5 +78,5 @@ a[href^="mailto:"]
 }
 .signature{
 
-  margin-top: 25px;font-weight:bold; color: #3d3d66;font-size:medium; text-align: center;display:inline-block;vertical-align: middle;
+  margin-top: 25px;font-weight:bold; color: #3d3d66;font-size:medium; text-align: center;display:inline-block;
 }
