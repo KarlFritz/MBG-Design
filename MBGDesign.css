@@ -54,6 +54,21 @@ a[href^="mailto:"]
 
      margin-top: 15px;font-weight:bold; color: #3d3d66;font-size:5px; text-align: center;display:inline-block;
    }
+ }
+ .dtsimpr{
+
+   font-size: 4px;font-weight:bold; color: #3d3d66;text-align: center;display:inline-block;word-wrap:break-word; white-space: pre-line;
+
+ }
+ .dtsimpr > h2{
+ font-size: 10px;
+ }
+ .dtsimpr > h3{
+ font-size: 8px;
+ }
+ .dtsimpr > h4{
+ font-size: 6px;
+ }
 
 }
 @media only screen and (min-width: 800px){
@@ -93,14 +108,6 @@ a[href^="mailto:"]
 
  }
 }
-
-#byAM	{
-	font-size: small;
-	text-align: left;
-}
-.Bilder {
-  margin:5% 0%; display: inline-block;
-}
 .dtsimpr{
 
   font-size: 10px;font-weight:bold; color: #3d3d66;text-align: center;display:inline-block;word-wrap:break-word; white-space: pre-line;
@@ -115,3 +122,11 @@ font-size: 15px;
 .dtsimpr > h4{
 font-size: 12px;
 }
+}
+
+#byAM	{
+	font-size: small;
+	text-align: left;
+}
+.Bilder {
+  margin:5% 0%; display: inline-block;
