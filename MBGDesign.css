@@ -107,21 +107,22 @@ a[href^="mailto:"]
      margin-top: 25px;font-weight:bold; color: #3d3d66;font-size:medium; text-align: center;display:inline-block;
 
  }
-}
-.dtsimpr{
+ .dtsimpr{
 
-  font-size: 10px;font-weight:bold; color: #3d3d66;text-align: center;display:inline-block;word-wrap:break-word; white-space: pre-line;
+   font-size: 10px;font-weight:bold; color: #3d3d66;text-align: center;display:inline-block;word-wrap:break-word; white-space: pre-line;
 
+ }
+ .dtsimpr > h2{
+ font-size: 20px;
+ }
+ .dtsimpr > h3{
+ font-size: 15px;
+ }
+ .dtsimpr > h4{
+ font-size: 12px;
+ }
 }
-.dtsimpr > h2{
-font-size: 20px;
-}
-.dtsimpr > h3{
-font-size: 15px;
-}
-.dtsimpr > h4{
-font-size: 12px;
-}
+
 
 
 #byAM	{
